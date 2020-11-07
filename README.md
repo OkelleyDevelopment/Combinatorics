@@ -3,12 +3,12 @@
 ## Motivation
 
 Combinatorics, in particular Combinations and Permutations, were the weakest point
-for me when taking my discrete mathematics course. In an effort to automate the process
-and actually understand the math behind them, I wrote these scripts.
+for me when taking my discrete mathematics course. I wrote these scripts in an effort to automate the process
+and improve my current understanding..
 
 ## Prerequisites
 
-Have Python3.0 or higher to run
+* Python3.0 or higher
 
 ## Program Execution
 
