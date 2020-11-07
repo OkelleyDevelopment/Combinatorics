@@ -8,6 +8,7 @@
 
     n choose K = n!/(k! * (n-k)!))
 """
+import math
 
 
 def create_list(increment, total, level, curr_list, total_list):
@@ -35,6 +36,9 @@ def main():
 
     for i in combinations:
         print(i)
+
+    print("All possible combinations: " + str(int((math.factorial(n) /
+                                                   ((math.factorial(k) * math.factorial(n - k)))))))
 
 
 if __name__ == "__main__":
